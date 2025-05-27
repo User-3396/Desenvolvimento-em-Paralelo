@@ -1,4 +1,5 @@
 #version 330 core  
+# qualquer coisa ee e e e 
 out vec4 FragColor;
   
 in vec4 vertexColor;   
