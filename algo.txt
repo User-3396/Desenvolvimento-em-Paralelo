@@ -1,4 +1,5 @@
 #version 330 core
+# qualquer coisa
 out vec4 FragColor;
   
 in vec4 vertexColor;   
@@ -6,4 +7,5 @@ in vec4 vertexColor;
 void main()
 {
     FragColor = vertexColor;
+    vertexColor = null;	
 }  
