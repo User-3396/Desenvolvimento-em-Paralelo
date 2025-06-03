@@ -6,6 +6,6 @@ void main (){
    color =vec3(sin(color.x), color.y, cos(color.z));
    gl_FragColor =vec4(color, 1.0);
    // comentario extra
-}
+   // outro comentario extraordinario}
 
 
